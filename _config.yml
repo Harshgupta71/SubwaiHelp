@@ -1,7 +1,7 @@
 # Site
 name: "Subwai"
 description: "Subwai, Bot, AI, LUIS"
-meta_description: "Subwai blog"
+meta_description: "Subwai help"
 logo: 'assets/images/logo.png'
 favicon: '/favicon.ico'
 baseurl: ''
